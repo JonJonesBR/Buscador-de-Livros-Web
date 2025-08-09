@@ -1,4 +1,3 @@
-```markdown
 # Buscador de Livros Web
 
 📚 Um buscador simples e eficiente para encontrar livros na web. Encontre seu próximo livro favorito com busca avançada por título, autor ou assunto.
@@ -47,4 +46,3 @@ Este projeto é open-source e está disponível para uso e modificação. Basead
 ---
 
 Desenvolvido com ❤️ por JonJonesBR
-```
